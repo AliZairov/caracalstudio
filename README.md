@@ -1,2 +1,1 @@
-# caracalstudio
-Caracal Studio
+# Caracal Studio
